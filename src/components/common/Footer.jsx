@@ -54,8 +54,7 @@ const Footer = () => {
               <Link
                 className="text-[#003465] text-[14px] leading-[93%]"
                 href="#"
-              >
-                © 2024 Just Get Visible Ltd, Company Registered in England &
+              >© 2024 Just Get Visible Ltd, Company Registered in England &
                 Wales: 09882516
               </Link>
             </div>

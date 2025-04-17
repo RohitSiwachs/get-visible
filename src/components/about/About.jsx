@@ -8,8 +8,6 @@ import Footer from "../common/Footer";
 const About = () => {
   return (
     <div>
-      <Navbar />
-
       {/* <Aboutmain heading="aboutus" /> */}
       <div className=" bg-[#003465]   w-full relative  p-[30px] sm:p-[50px] md:p-[70px] lg:pb-[100px]">
         <Image
@@ -143,7 +141,6 @@ const About = () => {
         </div>
       </div>
       {/* We are always on section end */}
-      <Footer />
     </div>
   );
 };

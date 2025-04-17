@@ -6,7 +6,7 @@ import {
   SidebarOpenIcon,
   SiderbarCloseIcon,
 } from "../homePage/Icon";
-import { navLinks, NavLinks } from "./Helper";
+import { navLinks } from "./Helper";
 import Link from "next/link";
 
 const Navbar = () => {
