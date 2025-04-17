@@ -2,7 +2,7 @@
 import React from "react";
 import Image from "next/image";
 
-const HeroSecton = () => {
+const Hero = () => {
   return (
     <section className="max-w-[1920px] w-full bg-[#003465] px-4">
       <div className="section1 bg-[url(/Assets/img/1pencil.png)] pt-[59px] max-xl:pt-0 max-lg:pt-0">
@@ -25,4 +25,4 @@ const HeroSecton = () => {
   );
 };
 
-export default HeroSecton;
+export default Hero;
