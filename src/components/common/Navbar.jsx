@@ -51,7 +51,7 @@ const Navbar = () => {
   }, [isSidebarOpen]);
 
   return (
-    <nav className="w-full bg-[#003465]">
+    <nav className="w-full bg-[#003465] pb-[113px]">
       <div className="max-w-[1920px] w-full px-4 relative">
         {/* Top Navbar */}
         <div className="max-w-[1492px] w-full flex justify-between mx-auto h-[93px] items-center max-sm:items-start">
@@ -72,7 +72,7 @@ const Navbar = () => {
             ))}
             <button className="group bg-[#F9DD00] flex h-[50px] justify-center items-center gap-[10px] rounded-xl w-[215px] self-center transition-all cursor-pointer text-[#003465] text-center text-base font-bold leading-[93px] relative z-10 hover:bg-[#003465] hover:text-[#F9DD00] hover:outline-double">
               <NavbarBtnIcon />
-              Start Project
+              Start Projects
             </button>
           </div>
 
