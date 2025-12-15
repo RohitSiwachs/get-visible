@@ -2,7 +2,7 @@ import React from "react";
 import { text } from "../common/Helper";
 const Cookies = () => {
   return (
-    <div className="bg-[#003465] w-full h-full px-4">
+    <div className="bg-[#7ba0c2] w-full h-full px-4">
       <div className="max-w-[1636px] mx-auto flex flex-col items-center gap-5 text-center pt-20 pb-10">
         <h1 className="text-[#03498A] text-center text-[192px] tracking-[-15px] font-black font-Montserrat w-full pt-20">
           COOKIES POLICY
